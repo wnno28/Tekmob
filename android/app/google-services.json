@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "830185290805",
+    "project_id": "prak10-aff83",
+    "storage_bucket": "prak10-aff83.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:830185290805:android:41d2f26900b51403be457c",
+        "android_client_info": {
+          "package_name": "com.example.gtk_flutte"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2qKS5uI2ZVqYe3OUpXZ9xty-M3eJnxkg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
